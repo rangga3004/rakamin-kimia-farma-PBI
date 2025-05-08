@@ -46,6 +46,7 @@ LEFT JOIN `rakamin-kf-analytics-458610.kimia_farma.kf_product` pd
   ON ft.product_id = pd.product_id)
 
 -- Checking for Duplicates
+
 -- SELECT transaction_id, COUNT(*)
 -- FROM test
 -- GROUP BY transaction_id
