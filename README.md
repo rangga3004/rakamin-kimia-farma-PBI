@@ -45,7 +45,7 @@ This project is part of the **Project-Based Internship (PBI)** program by **Raka
 
 ## 📬 Contact
 For inquiries or collaborations, feel free to contact me:  
-**Rangga Ferizky Fadli** – [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your@email.com)
+**Rangga Ferizky Fadli** – [LinkedIn](https://www.linkedin.com/in/ranggaferizky/) | [Email](mailto:ranggaferizkyfadli123@gmail.com)
 
 ---
 
