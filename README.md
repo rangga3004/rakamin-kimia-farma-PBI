@@ -37,9 +37,9 @@ This project is part of the **Project-Based Internship (PBI)** program by **Raka
 ---
 
 ## 📈 Dashboard Preview
-🔗 [View Looker Studio Dashboard](#) *(replace with your public dashboard link)*
+🔗 [View Looker Studio Dashboard](#) 
 
-![Dashboard Preview](assets/dashboard-screenshot.png) *(replace with actual screenshot)*
+![Dashboard Preview](assets/dashboard-screenshot.png) 
 
 ---
 
