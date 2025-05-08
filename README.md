@@ -1,3 +1,4 @@
+# Still WIP!
 # 💊 Kimia Farma Big Data Analytics Project
 
 This project is part of the **Project-Based Internship (PBI)** program by **Rakamin Academy x Kimia Farma**, focusing on **Big Data Analytics** in the pharmaceutical industry. The goal is to analyze sales data from Kimia Farma to uncover business insights and improve decision-making.
