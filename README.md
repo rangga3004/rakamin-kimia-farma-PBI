@@ -40,7 +40,7 @@ This project is part of the **Project-Based Internship (PBI)** program by **Raka
 ## 📈 Dashboard Preview
 🔗 [View Looker Studio Dashboard](https://lookerstudio.google.com/reporting/5b881245-55d8-4cc8-9268-86faf94820db) 
 
-![Dashboard Preview](dashboard/Rakamin-Kimia-Farma-FinalProject.pdf) 
+📊 [Dashboard Preview](dashboard/Rakamin-Kimia-Farma-FinalProject.pdf) 
 
 ---
 
